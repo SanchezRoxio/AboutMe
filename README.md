@@ -1,6 +1,5 @@
 
 <h2> Hey there! I'm Rocio. </h2> 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/287da9bb-11b9-4234-8ae5-cf08c78de5a4" width="400" height="550"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
